@@ -1,0 +1,22 @@
+body {
+    background-color: #AAD09F;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+p {
+ width: 600px;
+ size: 8;
+}
+.button {
+    color: antiquewhite;
+    background-color: #3B7197;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: #F8E2BD;
+    border-radius: 30px;
+    padding: 10px;
+    font-size:medium;
+}
+img {
+    width: 700px;
+    height: 500px;
+    border-radius: 30px;
+}
